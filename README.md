@@ -1,5 +1,5 @@
 # 🚀 Force Port Blocker
-Solusi cepat dan sederhana untuk memblokir port yang terblokir secara paksa. Cocok untuk pengguna awam dan developer yang sering menghadapi masalah **blocked port** saat menggunakan aplikasi seperti XAMPP.
+Solusi cepat dan sederhana untuk memblokir port secara paksa. Cocok untuk pengguna awam dan developer yang sering menghadapi masalah **blocked port** saat menggunakan aplikasi seperti XAMPP.
 
 ---
 
