@@ -10,7 +10,8 @@ Solusi cepat dan sederhana untuk memblokir port yang terblokir secara paksa. Coc
 ---
 
 ## 📸 Tangkapan Layar
-![Tangkapan layar aplikasi](https://via.placeholder.com/800x400.png?text=Tambahkan+tangkapan+layar+aplikasi)
+![Tangkapan layar xampp](https://github.com/Hidayathero/PORT-MANAGER-TOOLS/blob/main/gambar1.png?raw=true)
+![Tangkapan layar program](https://github.com/Hidayathero/PORT-MANAGER-TOOLS/blob/main/Capture.PNG?raw=true)
 
 ---
 
